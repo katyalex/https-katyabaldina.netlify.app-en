@@ -68,7 +68,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/cv.pdf"
+  link = "CV_eng.pdf"
 
 +++
 I am interested in how people's behavior shapes and is shaped by social context (e.g. social networks). Also, I am interested in how brain responds to social context. I would like to know the mechanisms underlying our ability to interact, cooperate with and influence on each other.
