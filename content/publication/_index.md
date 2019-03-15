@@ -13,3 +13,4 @@ view = 4
 image = ""
 caption = ""
 +++
+2018	Youm, Yoosik, Seungwon Lee, and Ekaterina Baldina. "Association Between Social Support and Bone Health Outcomes: A Systematic Review." Clinical Reviews in Bone and Mineral Metabolism (2018): 1-13.
