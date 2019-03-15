@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "B.A in Sociology"
   institution = "Yonsei University"
-  year = "expected graduate in 2019"
+  year = "expected in 2019"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
