@@ -3,7 +3,7 @@ title = "Mobile visual clothing search"
 date = 2013-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["Youm, Yoosik", "Seungwon Lee", "Ekaterina Baldina" ]
 
 # Publication type.
 # Legend:
@@ -14,23 +14,29 @@ authors = ["GA Cushen", "MS Nixon"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "In *Clinical Reviews in Bone and Mineral Metabolism *, IEEE."
+publication_short = "In *CRBM*"
 
 # Abstract.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
+abstract = "Previous studies on the association between social support and bone health outcomes did not produce consistent results. The main goal of this study was to resolve the inconsistency by systematically examining the studies on the association in the last two
+decades. In order to do that, we distinguished between two types of social supports: structural supports, which is the pattern of
+person’s social relationship, and functional support, which is the perceived specific functions from social ties. For fracture,
+structural social support, especially marital (or cohabitation) status, showed a strong association between both men and women.
+For osteoporosis, however, only functional social support seemed to have an association, especially only among women. We
+want to take this conclusion as tentative since there are only 21 research papers on the topic during the period examined.We also
+ask for more diverse and elaborated measures of social supports developed in social studies."
 
 # Summary. An optional shortened abstract.
-summary = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+# summary = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image # or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
 
 # Digital Object Identifier (DOI)
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -45,8 +51,8 @@ tags = []
 projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = ""
+url_preprint = ""
 url_code = "#"
 url_dataset = "#"
 url_project = ""
@@ -72,5 +78,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
