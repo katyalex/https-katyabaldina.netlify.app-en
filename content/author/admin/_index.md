@@ -13,19 +13,19 @@ role = "Research Assistant"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Yonsei University", url = "https://www.yonsei.ac.kr/en_sc/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "I am interested in how people's behavior shapes and is shaped by social context (e.g. social networks). Also, I am interested in how brain responds to social context. I would like to know the mechanisms underlying our ability to interact, cooperate with and influence on each other."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "katebaldina@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Social Networks",
+  "Health",
+  "Quantitaive methods"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,9 +34,9 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "B.A in Sociology"
+  institution = "Yonsei University"
+  year = "expected graduate in 2019"
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
