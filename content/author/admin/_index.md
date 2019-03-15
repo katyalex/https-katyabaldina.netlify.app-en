@@ -65,10 +65,10 @@ user_groups = ["Researchers", "Visitors"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[social]]
-  icon = "cv"
-  icon_pack = "ai"
-  link = "CV_eng.pdf"
+#[[social]]
+#  icon = "cv"
+#  icon_pack = "ai"
+#  link = "CV_eng.pdf"
 
 +++
 I am interested in how people's behavior shapes and is shaped by social context (e.g. social networks). Also, I am interested in how brain responds to social context. I would like to know the mechanisms underlying our ability to interact, cooperate with and influence on each other.
