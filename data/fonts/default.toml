@@ -6,8 +6,8 @@ google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Adobe Garamont Pro"
-nav_font = "Adobe Garamont Pro"
+body_font = "Lora"
+nav_font = "Lora"
 mono_font = "Roboto Mono"
 
 # Font size
