@@ -16,7 +16,7 @@ role = "Research Assistant"
 organizations = [ { name = "Yonsei University", url = "https://www.yonsei.ac.kr/en_sc/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am interested in how people's behavior shapes and is shaped by social context (e.g. social networks). Also, I am interested in how brain responds to social context. I would like to know the mechanisms underlying our ability to interact, cooperate with and influence on each other."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "katebaldina@gmail.com"
