@@ -71,4 +71,4 @@ user_groups = ["Researchers", "Visitors"]
 #  link = "CV_eng.pdf"
 
 +++
-Some text is expected to be here soon ^^.
+I use quantitative methods to explore about how social context affects our health and behavior. I am highly interested in explaining relationships between health and social networks, social network's benefits and flaws, and the link between collective and individual's behavior. 
