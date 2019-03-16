@@ -23,7 +23,7 @@ date_format = "April 2018"
   company = "Korean Social Life, Health and Aging Project"
   company_url = ""
   location = ""
-  date_start = "2018-04-01"
+  date_start = "2018-01-04"
   date_end = ""
   description = """
   Advisor: Yoosik Youm, Professor of Sociology,
