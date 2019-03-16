@@ -22,12 +22,12 @@ date_format = "April 2018"
   title = "Research Assistant"
   company = "Korean Social Life, Health and Aging Project"
   company_url = ""
-  location = "Yonsei University"
+  location = ""
   date_start = "2018-04-01"
   date_end = ""
   description = """
-  *Advisor: Yoosik Youm, Professor of Sociology
-  *Dept. of Sociology, Yonsei University
+  Advisor: Yoosik Youm, Professor of Sociology,
+  Dept. of Sociology, Yonsei University
   """
 
 # [[experience]]
