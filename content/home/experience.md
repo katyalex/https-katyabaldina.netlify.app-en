@@ -11,7 +11,7 @@ weight = 40
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "April 2018 ~ Present"
+date_format = "April 2018"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
