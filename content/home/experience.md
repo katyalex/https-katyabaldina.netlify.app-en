@@ -11,7 +11,7 @@ weight = 40
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "April 2018"
+date_format = "January 2, 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -23,7 +23,7 @@ date_format = "April 2018"
   company = "Korean Social Life, Health and Aging Project"
   company_url = ""
   location = ""
-  date_start = "April 2018"
+  date_start = "2018-04-01"
   date_end = ""
   description = """
   Advisor: Yoosik Youm, Professor of Sociology,
