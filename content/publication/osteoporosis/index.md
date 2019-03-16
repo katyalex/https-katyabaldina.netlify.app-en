@@ -3,7 +3,7 @@ title = "Association Between Social Support and Bone Health Outcomes: a Systemat
 date = 2018-08-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen"]
+authors = ["Yoosik Youm", "Seungwon Lee", "Ekaterina Baldina"]
 
 # Publication type.
 # Legend:
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
