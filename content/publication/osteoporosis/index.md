@@ -1,6 +1,5 @@
 +++
-title = "Association Between Social Support and Bone Health Outcomes:
-a Systematic Review"
+title = "Association Between Social Support and Bone Health Outcomes: a Systematic Review"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Youm, Yoosik", "Seungwon Lee", "Ekaterina Baldina" ]
