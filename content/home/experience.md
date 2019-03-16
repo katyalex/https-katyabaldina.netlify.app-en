@@ -26,8 +26,8 @@ date_format = "April 2018"
   date_start = "2018-04-01"
   date_end = ""
   description = """
-  Advisor: Yoosik Youm, Professor of Sociology
-  Dept. of Sociology, Yonsei University
+  *Advisor: Yoosik Youm, Professor of Sociology
+  *Dept. of Sociology, Yonsei University
   """
 
 # [[experience]]
