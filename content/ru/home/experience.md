@@ -26,7 +26,7 @@ date_format = "January 2, 2006"
   date_start = "2018-04-01"
   date_end = ""
   description = """
-  Advisor: Yoosik Youm, Профессор социологии,
+  Научный руководитель: Yoosik Youm, Профессор социологии,
   Департамент Социологии, Yonsei University
   """
 
