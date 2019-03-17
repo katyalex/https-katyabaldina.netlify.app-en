@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Katya Baldina"
+name = "Екатерина Балдина"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Assistant"
+role = "Научный ассистент"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,9 +23,9 @@ email = "katebaldina@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Social Networks",
-  "Health",
-  "Quantitaive methods"
+  "Социальные сети", "Теория графов",
+  "Здоровье",
+  "Статистика в области социологии"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,9 +34,9 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "B.A in Sociology"
+  course = "Социология (бакалавриат)"
   institution = "Yonsei University"
-  year = "expected in 2019"
+  year = "2019"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -71,4 +71,4 @@ user_groups = ["Researchers", "Visitors"]
 #  link = "CV_eng.pdf"
 
 +++
-I use quantitative methods to explore about how social context affects our health and behavior. I am highly interested in explaining relationships between health and social networks, social network's benefits and flaws, and the link between collective and individual's behavior. 
+Я использую статистические метода для того, чтобы узнать как социальная среда влияет на здоровье и поведение людей. Я заинтересована в том, как можно объяснить взаимосвязь между здоровьем и социальными отношениями, пользу и недостатки социальных нетворков, а также связь между групповым и индивидуальным поведением.
