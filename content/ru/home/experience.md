@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Опыт работы"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,15 +19,15 @@ date_format = "January 2, 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Assistant"
+  title = "Научный ассистент"
   company = "Korean Social Life, Health and Aging Project"
   company_url = ""
   location = ""
   date_start = "2018-04-01"
   date_end = ""
   description = """
-  Advisor: Yoosik Youm, Professor of Sociology,
-  Dept. of Sociology, Yonsei University
+  Advisor: Yoosik Youm, Профессор социологии,
+  Департамент Социологии, Yonsei University
   """
 
 # [[experience]]
