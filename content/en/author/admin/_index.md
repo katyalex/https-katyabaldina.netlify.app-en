@@ -43,8 +43,8 @@ user_groups = ["Researchers", "Visitors"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-# [[social]]
-  icon = "envelope"
+[[social]]
+  icon = "katebaldina@gmail.com"
   icon_pack = "fas"
   link = "mailto:katebaldina@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
