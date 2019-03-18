@@ -21,4 +21,4 @@
 [[ru.menu.main]]
     name = "Резюме"
     url = "static/files/en/CV_eng.pdf"
-    weight = 1
+    weight = 2
