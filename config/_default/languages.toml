@@ -6,10 +6,10 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"
-[[en.menu.main]]
-    name = "CV"
-    url = "static/files/en/CV_eng.pdf"
-    weight = 1
+#[[en.menu.main]]
+#    name = "CV"
+#    url = "static/files/en/CV_eng.pdf"
+#    weight = 1
 
 # Uncomment the lines below to configure your website in a second language.
 [ru]
@@ -18,7 +18,7 @@
   title = ""
 #  [zh.params]
 #    description = "Site description in Chinese..."
-[[ru.menu.main]]
-    name = "Резюме"
-    url = "static/files/en/CV_eng.pdf"
-    weight = 2
+#[[ru.menu.main]]
+#    name = "Резюме"
+#    url = "static/files/en/CV_eng.pdf"
+#    weight = 2
