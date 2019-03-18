@@ -14,7 +14,7 @@
   title = ""
 #  [zh.params]
 #    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[[ru.menu.main]]
+    name = "Resume"
+    url = "static/files/en/CV_eng.pdf"
+    weight = 1
