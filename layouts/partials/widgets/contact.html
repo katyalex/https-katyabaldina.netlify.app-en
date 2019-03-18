@@ -46,7 +46,7 @@
 
       {{ if and $.Site.Params.email (not $page.Params.email_form) }}
       <li>
-        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true" style="width:10px;height:15px;"></i>
+        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
         <span id="person-email" itemprop="email">
         {{- if $autolink }}<a href="mailto:{{ $.Site.Params.email }}">{{ $.Site.Params.email }}</a>{{ else }}{{ $.Site.Params.email }}{{ end -}}
         </span>
