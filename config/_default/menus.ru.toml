@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Code"
+  name = "Github"
   url = "https://github.com/katyalex"
   weight = 30
 
