@@ -12,10 +12,10 @@
 #    weight = 1
 
 # Uncomment the lines below to configure your website in a second language.
-[ru]
-  languageCode = "ru"
-  contentDir = "content/ru"
-  title = ""
+#[ru]
+#  languageCode = "ru"
+#  contentDir = "content/ru"
+# title = ""
 #  [zh.params]
 #    description = "Site description in Chinese..."
 #[[ru.menu.main]]
