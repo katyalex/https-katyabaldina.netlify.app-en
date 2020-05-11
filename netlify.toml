@@ -1,19 +1,28 @@
-[build]
-  command = "hugo --gc --minify -b $URL"
-  publish = "public"
+# Production context:
+# All deploys from the main repository branch
+# will inherit these settings.
+[context.production]
+  command = "make production"
+  [context.production.environment]
+    ACCESS_TOKEN = "super secret"
 
-[build.environment]
-  HUGO_VERSION = "0.55.6"
-  HUGO_ENABLEGITINFO = "true"
-
-[context.production.environment]
-  HUGO_ENV = "production"
-
-[context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
- 
+# Deploy Preview context:
+# All deploys generated from a pull/merge request
+# will inherit these settings.
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.55.6"
+  ACCESS_TOKEN = "not so secret"
+
+# Branch deploy context:
+# All deploys that are not from a pull/merge request
+# or from the production branch will inherit these settings.
+[context.branch-deploy]
+  command = "make staging"
+
+# Specific branch context:
+# Deploys from this branch will take these settings
+# and override their current ones.
+[context.feature]
+  command = "make feature"
+
+[context."features/branch"]
+  command = "gulp"
